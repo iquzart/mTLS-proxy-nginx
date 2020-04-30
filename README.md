@@ -6,9 +6,10 @@
 
 ### Setup
 1. Create CA and Server certificate in certs (create certs) directory
+[Python Digital Certificate](https://github.com/iquzart/python-digital-certificate) - The certificates can be created using the script.
 
 2. update nginx conf with certificate and backend.
-
+3. Build and run container image.
 
 ### Build
 
