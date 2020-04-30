@@ -5,7 +5,7 @@
 
 
 ### Setup
-1. Create CA and Server certificate in certs directory
+1. Create CA and Server certificate in certs (create certs) directory
 
 2. update nginx conf with certificate and backend.
 
